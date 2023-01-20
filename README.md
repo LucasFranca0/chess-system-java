@@ -5,8 +5,24 @@ Project developed to put into practice everything that was learned during the Ja
 
 
 ## OOP Topics:
- - Encapsulation
+ - Encapsulation / Access Modifiers
  - Constructors
  - ToString (Object / overriding)
-### System design
+ - Associations
+ - Enumerations
+ - Inheritance
+ - Downcasting
+ - Static members
+ - Layers pattern
+ - Overriding
+ - Polymorphism (ToString)
+ - Exceptions
+ - Abstract method / class
+ - Overloading
+
+
+## Data Structures Topics:
+ - Matrix
+ - List
+## System design
 ![chess-system-design](https://user-images.githubusercontent.com/111810585/213634815-66042f9b-75c7-4187-9d7d-1ec377c80b1e.png)
